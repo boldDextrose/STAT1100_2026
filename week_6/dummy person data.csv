@@ -1,0 +1,13 @@
+ID,age,sex,gender
+1,22,1,Male
+2,26,1,Male
+3,37,0,Female
+,20,1,Male
+4,56,0,Female
+5,-1,,
+6,79,99,Unknown
+7,64,,Not Available
+8,-35,1,Male
+,,,
+9,27,0,Male
+10,150,0,Female
